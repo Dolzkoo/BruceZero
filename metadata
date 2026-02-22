@@ -1,0 +1,148 @@
+[
+  {
+    "name": "BruceZero - T-Embed",
+    "description": "A bold, glowing upgrade for your Bruce device with neon energy and shark power",
+    "category": "Themes",
+    "files": [
+      {
+        "source": "BruceZero v1 - T-Embed/BruceZero v1 - T-Embed/Theme_BruceZero_v1.json",
+        "destination": "BruceZero/Theme_BruceZero_v1.json"
+      },
+      {
+        "source": "BruceZero v1 - T-Embed/BruceZero v1 - T-Embed/ble.png",
+        "destination": "BruceZero/ble.png"
+      },
+      {
+        "source": "BruceZero v1 - T-Embed/BruceZero v1 - T-Embed/clock.png",
+        "destination": "BruceZero/clock.png"
+      },
+      {
+        "source": "BruceZero v1 - T-Embed/BruceZero v1 - T-Embed/config.png",
+        "destination": "BruceZero/config.png"
+      },
+      {
+        "source": "BruceZero v1 - T-Embed/BruceZero v1 - T-Embed/connect.png",
+        "destination": "BruceZero/connect.png"
+      },
+      {
+        "source": "BruceZero v1 - T-Embed/BruceZero v1 - T-Embed/fm.png",
+        "destination": "BruceZero/fm.png"
+      },
+      {
+        "source": "BruceZero v1 - T-Embed/BruceZero v1 - T-Embed/files.png",
+        "destination": "BruceZero/files.png"
+      },
+      {
+        "source": "BruceZero v1 - T-Embed/BruceZero v1 - T-Embed/gps.png",
+        "destination": "BruceZero/gps.png"
+      },
+      {
+        "source": "BruceZero v1 - T-Embed/BruceZero v1 - T-Embed/ir.png",
+        "destination": "BruceZero/ir.png"
+      },
+      {
+        "source": "BruceZero v1 - T-Embed/BruceZero v1 - T-Embed/js.png",
+        "destination": "BruceZero/js.png"
+      },
+      {
+        "source": "BruceZero v1 - T-Embed/BruceZero v1 - T-Embed/nrf24.png",
+        "destination": "BruceZero/nrf24.png"
+      },
+      {
+        "source": "BruceZero v1 - T-Embed/BruceZero v1 - T-Embed/lora.png",
+        "destination": "BruceZero/lora.png"
+      },
+      {
+        "source": "BruceZero v1 - T-Embed/BruceZero v1 - T-Embed/others.png",
+        "destination": "BruceZero/others.png"
+      },
+      {
+        "source": "BruceZero v1 - T-Embed/BruceZero v1 - T-Embed/rf.png",
+        "destination": "BruceZero/rf.png"
+      },
+      {
+        "source": "BruceZero v1 - T-Embed/BruceZero v1 - T-Embed/rfid.png",
+        "destination": "BruceZero/rfid.png"
+      },
+      {
+        "source": "BruceZero v1 - T-Embed/BruceZero v1 - T-Embed/wifi.png",
+        "destination": "BruceZero/wifi.png"
+      }
+    ]
+  },
+  {
+    "name": "BruceZero v1 - M5 Stick",
+    "description": "A bold, glowing upgrade for your Bruce device with neon energy and shark power",
+    "category": "Themes",
+    "files": [
+      {
+        "source": "BruceZero v1 - M5 Stick/",
+        "destination": "Bruce-Theme/Bruce_Theme.json"
+      },
+      {
+        "source": "PNG-192px/BLE.png",
+        "destination": "Bruce-Theme/BLE.png"
+      },
+      {
+        "source": "PNG-192px/Clock.png",
+        "destination": "Bruce-Theme/Clock.png"
+      },
+      {
+        "source": "PNG-192px/Config.png",
+        "destination": "Bruce-Theme/Config.png"
+      },
+      {
+        "source": "PNG-192px/Connect.png",
+        "destination": "Bruce-Theme/Connect.png"
+      },
+      {
+        "source": "PNG-192px/Ethernet.png",
+        "destination": "Bruce-Theme/Ethernet.png"
+      },
+      {
+        "source": "PNG-192px/FM.png",
+        "destination": "Bruce-Theme/FM.png"
+      },
+      {
+        "source": "PNG-192px/Files.png",
+        "destination": "Bruce-Theme/Files.png"
+      },
+      {
+        "source": "PNG-192px/GPS.png",
+        "destination": "Bruce-Theme/GPS.png"
+      },
+      {
+        "source": "PNG-192px/IR.png",
+        "destination": "Bruce-Theme/IR.png"
+      },
+      {
+        "source": "PNG-192px/JSInterpreter.png",
+        "destination": "Bruce-Theme/JSInterpreter.png"
+      },
+      {
+        "source": "PNG-192px/NRF24.png",
+        "destination": "Bruce-Theme/NRF24.png"
+      },
+      {
+        "source": "PNG-192px/LoRa.png",
+        "destination": "Bruce-Theme/LoRa.png"
+      },
+      {
+        "source": "PNG-192px/Others.png",
+        "destination": "Bruce-Theme/Others.png"
+      },
+      {
+        "source": "PNG-192px/RF.png",
+        "destination": "Bruce-Theme/RF.png"
+      },
+      {
+        "source": "PNG-192px/RFID.png",
+        "destination": "Bruce-Theme/RFID.png"
+      },
+      {
+        "source": "PNG-192px/WiFi.png",
+        "destination": "Bruce-Theme/WiFi.png"
+      }
+    ]
+  }
+]
